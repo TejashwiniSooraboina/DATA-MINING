@@ -3,3 +3,4 @@
 # Lab-02 (https://colab.research.google.com/drive/1-KR_aoqnI3Hok6jMIndikJkktBpXbXwE#scrollTo=r4ZeuqMiZWHZ);
 # Lab-03 (https://colab.research.google.com/drive/1rmsex0dr7f2BcuVkkTIKj81fqT6yVSyq#scrollTo=afxZDSfqKcvm);
 # Lab-04 ();
+# Lab-07 (https://colab.research.google.com/drive/1ykl1DcAvfRDYDggLXhQx4GsOk60GIcdn#scrollTo=G_hHs5pCpqi7);
